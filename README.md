@@ -37,7 +37,7 @@ eksctl create iamserviceaccount \
 --override-existing-serviceaccounts \
 --region $REGION_CODE \
 --approve
-``
+```
 
 ### Install LoadBalancer Controller Drivers
 ```
